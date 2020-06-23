@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/brucedkyle0894/azdays-tryout/_apis/build/status/brucedkyle.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/brucedkyle0894/azdays-tryout/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/brucedkyle0894/azdays-tryout/_apis/build/status/brucedkyle.python-sample-vscode-flask-tutorial%20(2)?branchName=master)](https://dev.azure.com/brucedkyle0894/azdays-tryout/_build/latest?definitionId=3&branchName=master)
 
 # Python/Flask tutorial sample for Visual Studio Code
 
